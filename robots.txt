@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://gala-bingo-online.com/
+Sitemap: https://gala-bingo-online.com/sitemap.xml

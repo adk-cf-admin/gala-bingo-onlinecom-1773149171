@@ -1,1 +1,8 @@
-# gala-bingo-onlinecom-1773149171
+# gala-bingo-online.com
+
+
+
+Built on: 2026-03-10 13:26:13
+
+Available languages:
+- en-gb-en-GB

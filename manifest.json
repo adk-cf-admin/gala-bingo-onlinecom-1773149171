@@ -1,0 +1,19 @@
+{
+  "name": "Gala Bingo",
+  "short_name": "Gala Bingo",
+  "theme_color": "",
+  "background_color": "#082BA6",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773148033-f1925582da124c80a3863dfb816580c6.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
